@@ -7,8 +7,7 @@ Hello World ! Hello Friends!
 Language
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shining8543)](https://solved.ac/shining8543)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shining8543)](https://solved.ac/shining8543)
 
 <!--
 **shining8543/shining8543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
