@@ -3,7 +3,8 @@ Hello World ! Hello Friends!
 ----------------------
 자세한건 저의 [포트폴리오](https://equable-sunshine-572.notion.site/Backend-Developer-5746d749780440148c89cef6bec14d36)를 확인해주세요
 
-삼성 청년 SW 아카데미 5기 (SSAFY 5th) : 2021/01 ~ 
+삼성 청년 SW 아카데미 5기 (SSAFY 5th) : 2021/01 ~ 2021/12
+삼성 청년 SW 아카데미 6기 코치 : 2022/01 ~ 
 
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>
