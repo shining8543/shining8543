@@ -5,7 +5,9 @@ Hello World ! Hello Friends!
 
 삼성 청년 SW 아카데미 5기 (SSAFY 5th) : 2021/01 ~ 2021/12
 
-삼성 청년 SW 아카데미 6기 코치 : 2022/01 ~ 
+삼성 청년 SW 아카데미 6기 코치 : 2022/01 ~ 2022/05
+
+토스뱅크 Server Developer : 2022/05 ~ 
 
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>
