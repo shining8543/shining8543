@@ -12,7 +12,7 @@ Hello World ! Hello Friends!
 삼성 청년 SW 아카데미 6기 코치 : 2022/01 ~ 2022/05
 
 <img src="https://user-images.githubusercontent.com/43779730/171615077-ed264fb3-ac69-48a8-ac1e-ac9b6156c7de.png"  width="320" height="96"/>
-토스뱅크 Server Developer : 2022/05 ~ 
+Server Developer : 2022/05 ~ 
 
 ---------------------------------------------------------------
 
