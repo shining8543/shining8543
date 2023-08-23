@@ -16,16 +16,10 @@ Server Developer : 2022/05 ~
 
 ---------------------------------------------------------------
 
-
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JPA-47A248?style=flat-square&logo=Hibernate&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>
-
-
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shining8543)](https://solved.ac/shining8543)
-
-
 
